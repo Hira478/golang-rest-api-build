@@ -1,6 +1,4 @@
-# Project Title
-
-Golang REST API
+# Golang REST API
 
 ## Getting Started
 
@@ -34,8 +32,5 @@ go run main.go
 
 The server will be accessible at http://localhost:8080.
 
-Usage
-Explain how users can interact with or use your project. Provide examples if necessary.
-
 Dependencies
-github.com/gorilla/mux - Description of the package.
+github.com/gorilla/mux - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
